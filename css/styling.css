@@ -177,3 +177,9 @@ body {
   margin-right: 10px;
   margin-left: 10px;
 }
+
+.source-list .list-group-item {
+  background-color: #36287A;
+  border:none;
+  font-size: 18px;
+}
