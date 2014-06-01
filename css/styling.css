@@ -181,3 +181,9 @@ background-color: #36287A;
 border:none;
 font-size: 18px;
 }
+
+.bib {
+	text-align: left;
+	padding-left:48px;
+	text-indent:-48px;
+}
